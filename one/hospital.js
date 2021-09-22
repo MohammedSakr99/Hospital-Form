@@ -1,4 +1,4 @@
-$("#div4").delay(5000).fadeIn();
+$("#div4").delay().fadeIn();
 $("#cancel").click(function(){
 $("#div4").fadeOut()})
 
